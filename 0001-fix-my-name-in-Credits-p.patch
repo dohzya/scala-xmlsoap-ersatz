@@ -1,0 +1,39 @@
+From c823023a93dd00d040ede54442f7fd1fcb911d40 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=C3=89tienne=20Vallette=20d'Osia?= <dohzya@gmail.com>
+Date: Fri, 13 Jul 2012 18:15:13 +0300
+Subject: [PATCH] fix my name in Credits :p
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+Signed-off-by: Étienne Vallette d'Osia <evo@zenexity.com>
+---
+ README.md  | 2 +-
+ README.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index 591aef9..70f2aaa 100644
+--- a/README.md
++++ b/README.md
+@@ -29,4 +29,4 @@ More information+tuto in the [wiki](https://github.com/mandubian/scala-xmlsoap-e
+ Have fun!  
+ Pascal
+ 
+-> **Credits to Etienne Valette d'Osia for inspiring/tackling draft version of this code ;)**
++> **Credits to Étienne Vallette d'Osia for inspiring/tackling draft version of this code ;)**
+diff --git a/README.txt b/README.txt
+index 8268264..244ea1d 100644
+--- a/README.txt
++++ b/README.txt
+@@ -23,5 +23,5 @@ Have fun!
+ Pascal
+ 
+ 
+-=== Credits to Etienne Valette d'Osia for inspiring/tackling draft version of this code ;) ===
++=== Credits to Étienne Vallette d'Osia for inspiring/tackling draft version of this code ;) ===
+ 
+-- 
+1.7.11.2.328.gd30ef51
+
